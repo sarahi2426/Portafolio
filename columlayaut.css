@@ -1,0 +1,15 @@
+html{
+	font-size: 16px;
+}
+.flex-item{
+	border:thin solid #000;
+	background-color: skyblue;
+	width: 100%;
+}
+@media screen and (min-width:480px){
+	.flex-item{
+		width: 50%;
+	}
+ 	
+ } 
+	
