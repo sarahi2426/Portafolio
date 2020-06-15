@@ -1,0 +1,47 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#mi{
+	background-color: orange;
+}
+.mi img{
+ width: 20%;
+  height: auto;
+  border-radius: 50%;
+}
+.mi p {
+	text-align: center;
+	
+}
+.mi h1{
+	text-align: center;
+
+}
+h1{
+	text-align: center;
+}
+nav{
+	background-color: red;
+}
+img.foto{
+	width: auto;
+	height: auto;
+	display: block;
+
+}
+#edi{
+	display: flex;
+	justify-content: center;
+	background: #efefef;
+}
+.tarjeta img{
+	width: 100%;
+}
+.tarjeta{
+	width: 90%;
+	margin: 0 20px;
+	background-color: #fff;
+	padding:25px; 
+	text-align: center;
+}
